@@ -1,30 +1,10 @@
 body {
-
+	margin:0;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-li {
-    float: left;
-}
-
-li a {
-	font-family: Segoe UI Light;
-	font-size: 20px;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: rgba(231, 231, 231, 0.15)
+nav {
+	width: 100%;
+	height: 50px;
 }
 
 #body {
@@ -34,9 +14,28 @@ li a:hover {
 	background-attachment: fixed;
 }
 
-.headerbuttons {
-	float: right;
+
+nav button{
+	background: none;
+	border:0;
+	height:60px;
+	color:white;
+	font-size:17px;
+	margin: 0 10px 0 0;
+	padding:10px 15px;
+	transition: 0.4s;
+
 }
+
+nav button:hover{
+	background:rgba(243,236,248,0.4);
+	transition: 0.6s;
+
+}
+.noob {
+	float:right;
+}
+
 
 h1 {
 	font-family: Segoe UI Light;
@@ -49,4 +48,12 @@ h1 {
   	margin: auto;
   	font-family: segoe UI Light;
   	color: white;
+}
+
+.casino {
+	float: left;
+}
+
+.volkswagen {
+	float: left;
 }
