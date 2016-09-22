@@ -158,3 +158,84 @@ h2 {
 	margin: auto;
 	font-family: Segoe UI Light;
 }
+
+.card-panelhobby {
+	background: rgba(247, 247, 247, 0.8);
+	padding: 10px 10px 10px 10px;
+	font-size: 20px;
+	width: 800px;
+	height: auto;
+	border-radius: 5px;
+	color: black;
+	box-shadow: 0 2px 5px 0;
+	margin-top: -144px;
+	margin-left: 550px;
+	font-family: Segoe UI Light;
+}
+
+::-webkit-scrollbar-track
+{
+ -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+ background-color: #F5F5F5;
+}
+::-webkit-scrollbar
+{
+ width: 8px;
+ background-color: blue;
+}
+::-webkit-scrollbar-thumb
+{
+ background-color: #6A6A6A;
+}
+
+.card-panelbanwave {
+	background: rgba(247, 247, 247, 0.8);
+	padding: 10px 10px 10px 10px;
+	font-size: 20px;
+	width: 800px;
+	height: auto;
+	border-radius: 5px;
+	color: black;
+	box-shadow: 0 2px 5px 0;
+	margin: auto;
+	font-family: Segoe UI Light;
+}
+
+.card-panelcrowd {
+	background: rgba(247, 247, 247, 0.8);
+	padding: 10px 10px 10px 10px;
+	font-size: 20px;
+	width: 800px;
+	height: auto;
+	border-radius: 5px;
+	color: black;
+	box-shadow: 0 2px 5px 0;
+	margin: auto;
+	font-family: Segoe UI Light;
+}
+
+.vacimage {
+	float: left;
+	padding: 25px 15px 0px 0px;
+}
+
+.crowd2 {
+	height: 180px;
+	width: 320px;
+	float: left;
+	padding: 25px 15px 0px 0px;
+}
+
+.maikeleleimg2 {
+	height: 150px;
+	width: 320px;
+	float: left;
+	padding: 25px 15px 0px 0px;
+}
+
+.bettingimg2 {
+	height: 200px;
+	width: 320px;
+	float: left;
+	padding: 27px 15px 0px 0px;
+}
